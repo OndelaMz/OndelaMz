@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OndelaMz
+- 👋 Hi, I’m @OndelaMz, a Quantitative Analyst
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on projects
